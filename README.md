@@ -6,6 +6,6 @@ I picked this question because it reflects a common dilemma travelers face, and 
 
 The chart below shows that **705 people** said it’s not rude, while **only 145** total said it was either “somewhat rude” or “very rude.” This reveals a general sense of empathy or flexibility among passengers when seating requests involve family.
 
-![Flying Etiquette Chart](kn2Ub-do-people-think-it-s-rude-to-ask-someone-to-switch-seats-with-you-in-order-to-be-closer-to-family--.png)
+![Flying Etiquette Chart](kn2Ub-do-people-think-it-s-rude-to-ask-someone-to-switch-seats-with-you-in-order-to-be-closer-to-family-.png)
 
 **Source:** [FiveThirtyEight Flying Etiquette Survey](https://github.com/fivethirtyeight/data/tree/master/flying-etiquette-survey)
